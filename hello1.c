@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf(" welcome to sesusl")
+   printf(" welcome to sesusl");
   return 0;
 }
